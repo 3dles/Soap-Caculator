@@ -1,0 +1,5 @@
+{
+  "name": "Soap Calculator",
+  "description": "A comprehensive soap calculator that determines lye and water amounts, INS values, and soap properties based on blended vegetable oils. It visualizes fatty acid profiles with a pie chart, property values with bar charts, and generates a detailed soap description using the Gemini API.",
+  "requestFramePermissions": []
+}
